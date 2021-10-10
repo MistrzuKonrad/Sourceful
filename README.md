@@ -22,5 +22,9 @@ Tests include happy path
 * go to Sourceful\cypress\integration\sourceful_spec.js
 * in terminal type "npx cypress open"
 
+## How to use this test on CI/CD
+if you want to run a test in github action, follow the instructions below
+https://docs.cypress.io/guides/continuous-integration/github-actions#Cypress-GitHub-Action
+
 ## Authors
 Konrad Mamla
